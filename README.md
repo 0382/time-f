@@ -1,3 +1,3 @@
 # time-f
 
-Fortran wapper of `time.h` in c standard library.
+Fortran wrapper of `time.h` in c standard library.
